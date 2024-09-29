@@ -1,0 +1,1 @@
+#I have made the Blog App using Django
